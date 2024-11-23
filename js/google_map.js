@@ -5,7 +5,7 @@ function init() {
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     // var myLatlng = new google.maps.LatLng(40.71751, -73.990922);
-    var myLatlng = new google.maps.LatLng (-7.225295415662498, -35.897273735294824);
+    var myLatlng = new google.maps.LatLng (-7.214216139044805, -35.932603);
     // 39.399872
     // -8.224454
     
